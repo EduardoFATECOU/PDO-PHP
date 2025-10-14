@@ -1,7 +1,7 @@
 <?php
 /**
  * =====================================================
- * Sistema CRUD - Página Principal do Sistema
+ * Página Principal do Sistema - CRUD - by Prof. Eduardo
  * =====================================================
  * Este arquivo contém a interface principal do sistema e processa
  * todas as operações CRUD (Create, Read, Update, Delete)
