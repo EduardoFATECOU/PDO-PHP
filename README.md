@@ -1,4 +1,4 @@
-# Sistema CRUD - PHP PDO MariaDB
+# Sistema CRUD - PHP PDO MariaDB by Prof. Eduardo
 
 Sistema completo de cadastro de usuários desenvolvido em PHP utilizando PDO (PHP Data Objects) para conexão com banco de dados MariaDB/MySQL. O sistema implementa as quatro operações básicas de um CRUD: **Create** (Criar), **Read** (Ler), **Update** (Atualizar) e **Delete** (Excluir).
 
